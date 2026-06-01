@@ -12,7 +12,7 @@ This data analytics project evaluates operational metrics, regional market distr
 ---
 
 ## 🚀 Executive Presentation Video
-🎥 **[Click Here to Watch My Full Presentation Video on LinkedIn](PASTE_YOUR_LINKEDIN_VIDEO_LINK_HERE)**
+🎥 **[![Click Here to Watch My Full Presentation Video on LinkedIn](https://shields.io)](https://www.linkedin.com/feed/update/urn:li:activity:7467297127191474177/)**
 
 ---
 
